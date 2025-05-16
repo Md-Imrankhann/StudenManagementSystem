@@ -1,2 +1,2 @@
-# StudenManagementSystem
+# StudentManagementSystem
 StudenManagementSystem
