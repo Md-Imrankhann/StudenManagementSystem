@@ -1,2 +1,1 @@
 # StudentManagementSystem
-StudenManagementSystem
